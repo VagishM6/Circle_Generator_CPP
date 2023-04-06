@@ -1,2 +1,2 @@
 # Circle_Generator_CPP
-A program that generates circle coordinates based on given radius as input.
+A program that generates circle coordinates in x and y axis based on given radius as input.
